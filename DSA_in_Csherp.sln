@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{1E893EAE-C724-469B-BFEA-F9CFE0606BB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{79A4F83F-6AED-400E-B4AE-0C40F61FC168}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{1E893EAE-C724-469B-BFEA-F9CFE0606BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E893EAE-C724-469B-BFEA-F9CFE0606BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E893EAE-C724-469B-BFEA-F9CFE0606BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A4F83F-6AED-400E-B4AE-0C40F61FC168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A4F83F-6AED-400E-B4AE-0C40F61FC168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A4F83F-6AED-400E-B4AE-0C40F61FC168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A4F83F-6AED-400E-B4AE-0C40F61FC168}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
